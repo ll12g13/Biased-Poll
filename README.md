@@ -4,9 +4,7 @@ This is the experimental design in
 
 by Aristotelis Boukouras, William Jennings, Lunzheng Li and Zacharias Maniadis(2019)
 
-The Demo is here
-
-https://gentle-hamlet-99972.herokuapp.com/demo/
+The Demo is here https://gentle-hamlet-99972.herokuapp.com/demo/
 
 
 
