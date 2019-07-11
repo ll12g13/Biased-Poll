@@ -1,4 +1,4 @@
-This is experimental design in
+This is the experimental design in
 
 "Can Biased Polls Distort Electoral Results? Evidence from the Lab and the Field" 
 by Aristotelis Boukouras, William Jennings, Lunzheng Li and Zacharias Maniadis(2019)
